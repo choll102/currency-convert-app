@@ -1,0 +1,3 @@
+-- Xử lí API (Json) --
+-- sử dụng dropbutton -- 
+-- xử lí logic về UI android và ios --
